@@ -1,4 +1,4 @@
-#include "BST.h"
+#include "BST.hpp"
 #include <algorithm>
 #include <queue>
 #include <iostream>
